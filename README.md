@@ -6,11 +6,7 @@
 # Will this work on EAC & BE protected games?
 > Yes it will. But dont think that will this be undetected without editing the code
 
-# I need help what do I do ?
-# Showcase
-![](showcase.gif)
 # Credits
-
 [Kernel Driver used](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT)
 
 [Shellcode (edited)](https://github.com/TheCruZ/Simple-Manual-Map-Injector)
