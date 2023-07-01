@@ -7,7 +7,6 @@
 > Yes it will. But dont think that will this be undetected without editing the code
 
 # I need help what do I do ?
-> You can add me on discord kidra#6986
 # Showcase
 ![](showcase.gif)
 # Credits
